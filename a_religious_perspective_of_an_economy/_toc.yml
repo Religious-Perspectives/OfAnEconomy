@@ -1,0 +1,33 @@
+format: jb-book
+root: intro
+options:
+  numbered: True
+parts:
+  - caption: Extortion
+    chapters:
+      - file: extortion/intro
+      - file: extortion/history
+      - file: extortion/players
+      - file: extortion/future
+      - file: extortion/references
+  - caption: Investment Fraud
+    chapters:
+      - file: investment_fraud/intro
+      - file: investment_fraud/history
+      - file: investment_fraud/players
+      - file: investment_fraud/future
+      - file: investment_fraud/references
+  - caption: Money Laundering
+    chapters:
+      - file: laundering/intro
+      - file: laundering/history
+      - file: laundering/players
+      - file: laundering/future
+      - file: laundering/references
+  - caption: Embezzlement
+    chapters:
+      - file: embezzlement/intro
+      - file: embezzlement/history
+      - file: embezzlement/players
+      - file: embezzlement/future
+      - file: embezzlement/references
