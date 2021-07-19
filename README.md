@@ -22,6 +22,11 @@ Please see the [Jupyter Book documentation](https://jupyterbook.org/publish/web.
 
 For GitHub and GitLab deployment specifically, the [cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book) includes templates for, and information about, optional continuous integration (CI) workflow files to help easily and automatically deploy books online with GitHub or GitLab. For example, if you chose `github` for the `include_ci` cookiecutter option, your book template was created with a GitHub actions workflow file that, once pushed to GitHub, automatically renders and pushes your book to the `gh-pages` branch of your repo and hosts it on GitHub Pages when a push or pull request is made to the main branch.
 
+## Helpful Links for Development
+* https://jupyterbook.org/intro.html
+* https://jupyterbook.org/reference/cheatsheet.html
+* https://myst-parser.readthedocs.io/en/latest/syntax/syntax.html
+
 ## Contributors
 
 We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/Funkmyster/a_religious_perspective_of_an_economy/graphs/contributors).
