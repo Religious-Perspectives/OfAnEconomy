@@ -1,9 +1,8 @@
 format: jb-book
 root: intro
-options:
-  numbered: True
 parts:
   - caption: Extortion
+    numbered: true
     chapters:
       - file: extortion/intro
       - file: extortion/history
@@ -11,6 +10,7 @@ parts:
       - file: extortion/future
       - file: extortion/references
   - caption: Investment Fraud
+    numbered: true
     chapters:
       - file: investment_fraud/intro
       - file: investment_fraud/history
@@ -18,6 +18,7 @@ parts:
       - file: investment_fraud/future
       - file: investment_fraud/references
   - caption: Money Laundering
+    numbered: true
     chapters:
       - file: laundering/intro
       - file: laundering/history
@@ -25,6 +26,7 @@ parts:
       - file: laundering/future
       - file: laundering/references
   - caption: Embezzlement
+    numbered: true
     chapters:
       - file: embezzlement/intro
       - file: embezzlement/history
