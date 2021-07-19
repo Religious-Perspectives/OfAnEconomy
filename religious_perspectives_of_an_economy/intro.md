@@ -5,13 +5,13 @@
 ### Ancient Babylon
 
 (jewish-finance)=
-#### Jewish Finance
+### Jewish Finance
 
 (christian-finance)=
-#### Christian Finance
+### Christian Finance
 
 (islamic-finance)=
-#### Islamic Finance
+### Islamic Finance
 
 
 ## References
