@@ -29,11 +29,11 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
-        jupyter-book build a_religious_perspective_of_an_economy
+        jupyter-book build religious_perspectives_of_an_economy
 
     # Deploy the book's HTML to gh-pages branch
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3.6.1
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: a_religious_perspective_of_an_economy/_build/html
+        publish_dir: religious_perspectives_of_an_economy/_build/html

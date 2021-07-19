@@ -5,7 +5,7 @@
 
 #######################################################################################
 # Book settings
-title                       : A Religious Perspective of an Economy  # The title of the book. Will be placed in the left navbar.
+title                       : Religious Perspectives of an Economy  # The title of the book. Will be placed in the left navbar.
 author                      : Jacob Michael Silva  # The author of the book
 copyright                   : "2021"  # Copyright year to be placed in the footer
 #logo                        : logo.png  # A path to the book logo
@@ -26,7 +26,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/Funkmyster/A Religious Perspective of an Economy  # Online location of your book
+  url: https://github.com/Religious-Perspectives/OfAnEconomy
   path_to_book: docs  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
