@@ -7,3 +7,4 @@
 * https://www.investor.gov/protect-your-investments/fraud/types-fraud/affinity-fraud
 * https://en.wikipedia.org/wiki/Securities_fraud
 * http://churchcrime.info/fraud-swindle/
+* https://www.npr.org/templates/story/story.php?storyId=16860611
